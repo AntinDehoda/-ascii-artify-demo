@@ -29,7 +29,7 @@ Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a
 - Performance: It can be hard to gauge realistic performance of a containerized application or fully fledged Kubernetes cluster via minikube since it is only a single node and does not have many of the features of a different Kubernetes tool. When running a resource intensive application, you are more likely to see performance degradation with minikube.
 
 ***Example:***
-![Minikube!](/docs/images/627248.gif "minikube")
+![Minikube!](/doc/images/627248.gif "minikube")
 
 
 ### KinD
@@ -44,7 +44,7 @@ Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a
 - Less isolation compared to Minikube.
 
 ***Example:***
-![KinD!](/docs/images/627247.gif "KinD")
+![KinD!](/doc/images/627247.gif "KinD")
 
 ### K3d
 ***PROS:***
@@ -59,4 +59,4 @@ Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a
 
 
 ***Example:***
-![K3d!](/docs/images/629224.gif "K3d")
+![K3d!](/doc/images/629224.gif "K3d")
