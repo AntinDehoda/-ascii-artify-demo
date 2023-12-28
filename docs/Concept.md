@@ -59,4 +59,4 @@ Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a
 
 
 ***Example:***
-![K3d!](/docs/images/627124.gif "K3d")
+![K3d!](/docs/images/629224.gif "K3d")
